@@ -7,7 +7,7 @@
     @include('pages.skills')
     @include('pages.resume')
     @include('pages.portfolio')
-    @include('pages.services')
+{{--    @include('pages.services')--}}
 
     @livewire('contact-us')
 
