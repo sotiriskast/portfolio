@@ -12,7 +12,7 @@
              <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
                  <div class="count-box">
                      <i class="bi bi-emoji-smile"></i>
-                     <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1"
+                     <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
                          class="purecounter"></span>
                      <p><strong>Happy Clients</strong></p>
                  </div>
@@ -21,7 +21,7 @@
              <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
                  <div class="count-box">
                      <i class="bi bi-journal-richtext"></i>
-                     <span data-purecounter-start="0" data-purecounter-end="123" data-purecounter-duration="1"
+                     <span data-purecounter-start="0" data-purecounter-end="250" data-purecounter-duration="1"
                          class="purecounter"></span>
                      <p><strong>Projects</strong></p>
                  </div>
@@ -30,7 +30,7 @@
              <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
                  <div class="count-box">
                      <i class="bi bi-headset"></i>
-                     <span data-purecounter-start="0" data-purecounter-end="725" data-purecounter-duration="1"
+                     <span data-purecounter-start="0" data-purecounter-end="2000" data-purecounter-duration="1"
                          class="purecounter"></span>
                      <p><strong>Hours Of Support</strong></p>
                  </div>
@@ -39,7 +39,7 @@
              <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
                  <div class="count-box">
                      <i class="bi bi-people"></i>
-                     <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1"
+                     <span data-purecounter-start="0" data-purecounter-end="1" data-purecounter-duration="1"
                          class="purecounter"></span>
                      <p><strong>Hard Workers</strong></p>
                  </div>

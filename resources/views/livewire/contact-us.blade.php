@@ -12,7 +12,7 @@
 
          <div class="row">
 
-             <div class="col-lg-5 d-flex align-items-stretch">
+             <div class="col-lg-8 offset-2 d-flex align-items-stretch">
                  <div class="info">
                      <div class="address">
                          <i class="bi bi-geo-alt"></i>
@@ -52,7 +52,7 @@
 
              </div>
 
-             <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
+{{--             <div class="col-lg-7 mt-5 mt-lg-0 d-flex align-items-stretch">
 
                  <form method="post" role="form" wire:submit.prevent="submit" class="php-email-form">
                     @include('emails.message')
@@ -84,7 +84,7 @@
                      </div>
 
                  </form>
-             </div>
+             </div>--}}
 
          </div>
 
