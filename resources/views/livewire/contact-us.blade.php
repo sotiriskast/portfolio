@@ -12,7 +12,7 @@
 
          <div class="row">
 
-             <div class="col-lg-8 offset-2 d-flex align-items-stretch">
+             <div class=" col-lg-6 col-sm-12 col-md-12 d-flex align-items-stretch">
                  <div class="info">
                      <div class="address">
                          <i class="bi bi-geo-alt"></i>
