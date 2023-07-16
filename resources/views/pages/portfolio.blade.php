@@ -40,7 +40,7 @@
                     <div class="portfolio-links">
                         <a href="assets/img/portfolio/mamakido.png" data-gallery="portfolioGallery"
                            class="portfolio-lightbox" title="E-shop"><i class="bx bx-plus"></i></a>
-                        <a href="https://mamakiddo.com/" title="More Details"><i class="bx bx-link"></i></a>
+                        <a href="https://mamakiddo.com/" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
             </div>
@@ -50,8 +50,8 @@
                     <img src="assets/img/portfolio/skwebsolution.png" class="img-fluid" alt="">
                     <div class="portfolio-links">
                         <a href="assets/img/portfolio/skwebsolution.png" data-gallery="portfolioGallery"
-                           class="portfolio-lightbox" title="My personal Website"><i class="bx bx-plus"></i></a>
-                        <a href="https://skwebsolution.cy/" title="More Details"><i class="bx bx-link"></i></a>
+                           class="portfolio-lightbox"  title="My personal Website"><i class="bx bx-plus"></i></a>
+                        <a href="https://skwebsolution.cy/" target="_blank" title="More Details"><i class="bx bx-link"></i></a>
                     </div>
                 </div>
             </div>
