@@ -22,8 +22,8 @@
                         <ul>
                             <li><i class="bi bi-chevron-right"></i> <strong>Birthday:</strong>
                                 <span>6 Aug 1992</span></li>
-                            <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>
-                                <span>www.eventscy.com</span></li>
+{{--                            <li><i class="bi bi-chevron-right"></i> <strong>Website:</strong>--}}
+{{--                                <span>www.eventscy.com</span></li>--}}
                             <li><i class="bi bi-chevron-right"></i> <strong>Phone:</strong>
                                 <span>+357 99 148662</span></li>
                             <li><i class="bi bi-chevron-right"></i> <strong>City:</strong>

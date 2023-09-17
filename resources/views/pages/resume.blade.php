@@ -22,7 +22,7 @@
                     <ul>
                         <li>Cyprus, Ammochostos</li>
                         <li>(+357) 99 148662</li>
-                        <li>soteris@gmail.com</li>
+                        <li>soteris100@gmail.com</li>
                     </ul>
                 </div>
 
